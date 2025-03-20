@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ESFEG06.BusinessLogic\ESFEG06.BusinessLogic.csproj" />
+  </ItemGroup>
+
 </Project>
